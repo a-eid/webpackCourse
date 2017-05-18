@@ -1,0 +1,10 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ahmed Eid",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^2.5.1"
+  }
+}
